@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000;
+  color: #FFF;
+  padding: 15px 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: orange;
+  padding: 5px;
+  overflow: auto;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  background-color: #AAA;
+  float: left;
+  list-style-type: none;
+  width: 70px;
+}
+
+
+
+.sidebar {
+  background-color: #DDD;
+  width: 50%;
+  float: right;
+}
+
+
+
+.post {
+  background-color: yellow;
+  float: left;
+  padding: 2%;
+  width: 46%;
+}
+
+footer {
+  background-color: blue;
+  color: #FFF;
+  clear: both;
+}
