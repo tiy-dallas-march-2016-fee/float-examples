@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000;
+  color: #FFF;
+  padding: 15px 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.sidebar {
+  background-color: #DDD;
+  width: 30%;
+  float: right;
+}
+
+.sidebar ul {
+  margin: 0;
+}
+
+.sidebar li {
+  background-color: #AAA;
+}
+
+.post {
+  background-color: yellow;
+  float: left;
+  padding: 2%;
+  width: 51%;
+}
+
+.other-stuff {
+  background-color: #000;
+  border-top: solid 1px white;
+  color: #FFF;
+  float: left;
+  width: 15%;
+}
+
+footer {
+  background-color: blue;
+  color: #FFF;
+  clear: both;
+}
